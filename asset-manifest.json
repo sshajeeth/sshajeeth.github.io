@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/static/css/main.79469221.chunk.css",
+    "main.js": "/static/js/main.46577cc1.chunk.js",
+    "main.js.map": "/static/js/main.46577cc1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.cd066650.js",
+    "runtime-main.js.map": "/static/js/runtime-main.cd066650.js.map",
+    "static/js/2.3bdf9d2b.chunk.js": "/static/js/2.3bdf9d2b.chunk.js",
+    "static/js/2.3bdf9d2b.chunk.js.map": "/static/js/2.3bdf9d2b.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.a5ef9b42fc570c0a1fd9202faed3b142.js": "/precache-manifest.a5ef9b42fc570c0a1fd9202faed3b142.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.79469221.chunk.css.map": "/static/css/main.79469221.chunk.css.map",
+    "static/js/2.3bdf9d2b.chunk.js.LICENSE.txt": "/static/js/2.3bdf9d2b.chunk.js.LICENSE.txt",
+    "static/media/100.jpg": "/static/media/100.53c38366.jpg",
+    "static/media/100.png": "/static/media/100.8f1df092.png",
+    "static/media/index.css": "/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/buld.jpg": "/static/media/buld.a1051a22.jpg",
+    "static/media/codeInLogo.png": "/static/media/codeInLogo.b3685be8.png",
+    "static/media/deeplearning_ai_logo.png": "/static/media/deeplearning_ai_logo.7a9b2eb0.png",
+    "static/media/all.css": "/static/media/fa-solid-900.c2801fb4.svg",
+    "static/media/ginos.jpg": "/static/media/ginos.ed187a90.jpg",
+    "static/media/googleAssistant.jpg": "/static/media/googleAssistant.0c8a4c11.jpg",
+    "static/media/hrishi2.png": "/static/media/hrishi2.66e2d22b.png",
+    "static/media/ino.png": "/static/media/ino.ccf88661.png",
+    "static/media/intel_logo.jpg": "/static/media/intel_logo.29152cf7.jpg",
+    "static/media/neemlogo.png": "/static/media/neemlogo.3343aab3.png",
+    "static/media/profilePic.jpg": "/static/media/profilePic.b57cfeb9.jpg",
+    "static/media/sal.png": "/static/media/sal.62ac09c3.png",
+    "static/media/stanford_logo.png": "/static/media/stanford_logo.da0e7c80.png",
+    "static/media/vjt.png": "/static/media/vjt.c54faf17.png",
+    "static/media/westminster.jpg": "/static/media/westminster.17eff601.jpg",
+    "static/media/westminster.png": "/static/media/westminster.a2ea5aea.png",
+    "static/media/wrighter.jpg": "/static/media/wrighter.02fdae43.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd066650.js",
+    "static/js/2.3bdf9d2b.chunk.js",
+    "static/css/main.79469221.chunk.css",
+    "static/js/main.46577cc1.chunk.js"
+  ]
+}
