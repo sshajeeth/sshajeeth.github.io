@@ -1,35 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "756da4cc38e2d0149d03be2f4a63976f",
+    "revision": "04c46fce9b331a2afb23f7dc2f926678",
     "url": "/index.html"
   },
   {
-    "revision": "426f27572f16a39a54f9",
+    "revision": "3342f02cf99f662c3665",
     "url": "/static/css/main.79469221.chunk.css"
   },
   {
-    "revision": "655747bbbc709881616d",
-    "url": "/static/js/2.3bdf9d2b.chunk.js"
+    "revision": "d93e8ffca9e7aa7375ff",
+    "url": "/static/js/2.27355ba2.chunk.js"
   },
   {
     "revision": "32eaebd0b06f4bb60d5e9e5d0e7cd13e",
-    "url": "/static/js/2.3bdf9d2b.chunk.js.LICENSE.txt"
+    "url": "/static/js/2.27355ba2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "426f27572f16a39a54f9",
-    "url": "/static/js/main.de0463c6.chunk.js"
+    "revision": "3342f02cf99f662c3665",
+    "url": "/static/js/main.5290fe7a.chunk.js"
   },
   {
     "revision": "7d97a9cfc8b2aa55673c",
     "url": "/static/js/runtime-main.cd066650.js"
-  },
-  {
-    "revision": "53c383668d49bd98ce55f80003534b3c",
-    "url": "/static/media/100.53c38366.jpg"
-  },
-  {
-    "revision": "8f1df092adab46fa893e132c254792c4",
-    "url": "/static/media/100.8f1df092.png"
   },
   {
     "revision": "21f233e19402cc4a66866a7f31191f0d",
@@ -62,18 +54,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "ee6539921d713482b8ccd4d0d23961bb",
     "url": "/static/media/Montserrat-Regular.ee653992.ttf"
-  },
-  {
-    "revision": "a1051a228140c97862ba9a7f321c92b6",
-    "url": "/static/media/buld.a1051a22.jpg"
-  },
-  {
-    "revision": "b3685be8bafcd5fe4786b39cba69a561",
-    "url": "/static/media/codeInLogo.b3685be8.png"
-  },
-  {
-    "revision": "7a9b2eb087350abacd2587dd578226c7",
-    "url": "/static/media/deeplearning_ai_logo.7a9b2eb0.png"
   },
   {
     "revision": "06147b6cd88c7346cecd1edd060cd5de",
@@ -140,22 +120,6 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/ginos.ed187a90.jpg"
   },
   {
-    "revision": "0c8a4c114ad00f7854e91550379b9b91",
-    "url": "/static/media/googleAssistant.0c8a4c11.jpg"
-  },
-  {
-    "revision": "66e2d22bd710b19d9d9d4da4cc3e0ac2",
-    "url": "/static/media/hrishi2.66e2d22b.png"
-  },
-  {
-    "revision": "ccf886614a9c68f209d3e95c2626dd99",
-    "url": "/static/media/ino.ccf88661.png"
-  },
-  {
-    "revision": "29152cf756a1facead5393c32e373371",
-    "url": "/static/media/intel_logo.29152cf7.jpg"
-  },
-  {
     "revision": "3343aab3a7b450b3d1720739f19f8aec",
     "url": "/static/media/neemlogo.3343aab3.png"
   },
@@ -164,27 +128,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/media/profilePic.b57cfeb9.jpg"
   },
   {
-    "revision": "62ac09c36353106943a259590cf62a9e",
-    "url": "/static/media/sal.62ac09c3.png"
-  },
-  {
-    "revision": "da0e7c80b90df28dd3a590c80f3d4970",
-    "url": "/static/media/stanford_logo.da0e7c80.png"
-  },
-  {
-    "revision": "c54faf1740c35847ac1c016c81beb35b",
-    "url": "/static/media/vjt.c54faf17.png"
-  },
-  {
     "revision": "17eff6013102459c73d426608767bd8a",
     "url": "/static/media/westminster.17eff601.jpg"
-  },
-  {
-    "revision": "a2ea5aea90a3e74493a6266a4971e413",
-    "url": "/static/media/westminster.a2ea5aea.png"
-  },
-  {
-    "revision": "02fdae4350ca45cabdc9c40cc11efc2a",
-    "url": "/static/media/wrighter.02fdae43.jpg"
   }
 ]);
